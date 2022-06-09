@@ -14,7 +14,7 @@ based on KYOTO_RETAIL_RRKS31.Q3-19-97-8
 
 #### How to build
 ```sh
-git clone https://github.com/forforksake/android_device_motorola_kyoto device/motorola/kyoto -b pbrp
+git clone https://github.com/forforksake/android_device_motorola_kyoto-pbrp device/motorola/kyoto
 export ALLOW_MISSING_DEPENDENCIES=true
 source build/envsetup.sh
 make clobber
