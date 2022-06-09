@@ -60,4 +60,6 @@ fastboot reboot bootloader
 ```
 select **recovery mode** from bootloader screen
 
+XDA Link - https://forum.xda-developers.com/t/recovery-11-unofficial-pbrp-3-1-0-kyoto.4454635/
+
 WIP, feel free to assist - ForForkSake - CFKod @ Xdadevelopers_
